@@ -4,7 +4,8 @@ public class Prueva {
 		
 		System.out.println("Ajedréz");
 		System.out.println("Mi casa");
-	
+		System.out.println("Discord");
+
 	}
 
 }
